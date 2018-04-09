@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 
 const iframeStyle = {
   width: '100%',
@@ -32,7 +33,7 @@ class Preview extends Component {
 }
 
 Preview.propTypes = {
-  url: React.PropTypes.string,
+  url: PropTypes.string,
 };
 
 export default Preview;

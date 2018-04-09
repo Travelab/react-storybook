@@ -30,6 +30,7 @@
     "@kadira/storybook-ui": "^3.11.0",
     "common-tags": "^1.4.0",
     "express": "^4.15.2",
+    "prop-types": "^15.6.1",
     "qs": "^6.4.0",
     "react-modal": "^2.3.2",
     "redux": "^3.6.0",
